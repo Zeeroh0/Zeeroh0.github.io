@@ -1,0 +1,24 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+.thought1 {
+	font-family: 'Artifika', serif;
+	font-size: 40px;
+}
+
+.thought2 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+}
+
+.thought3 {
+	font-family: 'Dangrek', cursive;
+	font-style: oblique;
+}
+
+h3, h4 {
+	font-family: 'Poppins', sans-serif;
+	text-decoration: underline;
+}
