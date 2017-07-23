@@ -1,0 +1,148 @@
+body {
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	color: #777777; 
+	width: 960px;
+}
+
+
+
+.header {	
+
+}
+h1 {
+	font-family: "Georgia", Times, "Times New Roman", serif;
+	color: #ffffff;
+	background: #4aaaa5;
+	padding: 20px;
+	margin-left: 10px;
+	width: 250px;
+	float: left;
+}
+.Nav {
+	text-decoration: none;
+	float: right;
+}
+
+ul {
+	float: right;
+	margin: 40px 0px;
+}
+
+li {
+	display: inline;
+	font-size: 120%;
+	margin: 40px 0px;
+}
+
+a:link {
+    color: #777777;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #777777;
+    text-decoration: none;
+}
+
+
+
+
+.container {
+	background-image: url(concrete-texture/concrete-texture.png);
+	clear: both;
+}
+
+h2 {
+	font-family: "Georgia", Times, "Times New Roman", serif;
+	color: #4aaaa5;
+	padding-left: 15px;
+
+}
+
+.AboutMe {
+	width: 650px;
+	float: left;
+	margin: 0px 10px;
+	border: 2px solid #eee;
+	margin-bottom: 30px;
+}
+
+#ProfilePic {
+	float: left;
+	margin: 0px 10px;
+}
+
+.Connect {
+	width: 270px;
+ 	float: right;
+ 	border: 2px solid #eee;
+}
+
+footer {
+	clear: both;
+	background: #808287;
+	font-size: 70%;
+	text-align: center;
+	color: #ffffff;
+	border-top: 5px solid #4aaaa5;
+	padding: 30px;
+}
+
+
+
+.Portfolio {
+	width: 650px;
+	float: left;
+	margin: 0px 10px 30px;
+	border: 2px solid #eee;
+	display: inline-block;
+
+}
+
+.project-image {
+	display: inline-block;
+	position: relative;
+	width: 155px;
+	padding: 20px;
+	margin: 0px 15px 0px 15px;
+}
+
+.project-title {
+	position: absolute;
+	width: inherit;
+	text-align: center;
+	padding: 10px 0px;
+	background-color: #4aaaa5;
+	color: white;
+	margin-top: 125px;
+}
+
+
+
+.contact {
+	width: 650px;
+	float: left;
+	margin: 0px 10px 30px; 
+	border: 2px solid #eee;
+}
+.Email {
+	margin-left: 20px;
+}
+input[type=text] {
+	width: 50%;
+	padding: 5px;
+	margin: 5px 0px;
+	box-sizing: border-box;
+}
+
+input[type=submit] {
+	padding: 10px 30px;
+	color: #ffffff;
+	background: #4aaaa5;
+	margin-left: 0px;
+	border: none;
+}
+
+#Message {
+	height: 300px;
+}
