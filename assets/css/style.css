@@ -81,6 +81,7 @@ h1, h2, h3, h4, h5, h6, .navbar-brand {
 .thumbnail {
 	position: relative;
 	padding: 0;
+	/* width: 80%; */
 }
 
 .thumbnail a>img {
